@@ -5,4 +5,4 @@ Open Source WebSocket Plugin upgraded & usable with Unreal Engine 4.26.1
 
 #### author: revzim
 
-#### [UEWebSocket unmaintained since 2017](https://github.com/flufy3d/UEWebSocket)
+#### [UEWebSocket(no longer maintained or available through github)](https://github.com/feixuwu/UEWebSocket)
