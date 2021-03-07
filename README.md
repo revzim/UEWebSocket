@@ -5,4 +5,4 @@ Open Source C++ and Blueprint WebSocket Plugin upgraded for use with Unreal Engi
 
 #### author: revzim
 
-#### [UEWebSocket(no longer maintained or available through github)](https://github.com/feixuwu/UEWebSocket)
+#### [UEWebSocket(unmaintained since 2017 no longer available)](https://github.com/feixuwu/UEWebSocket)
